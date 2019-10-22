@@ -61,7 +61,7 @@
     "@storybook/addon-info": "^5.2.5",
     "@storybook/addon-options": "^5.2.5",
     "@storybook/channels": "^5.2.5",
-    "@storybook/react": "^5.1.9",
+    "@storybook/react": "^5.2.5",
     "@storybook/storybook-deployer": "^2.8.1",
     "autoprefixer": "^9.6.1",
     "babel-jest": "^24.8.0",
