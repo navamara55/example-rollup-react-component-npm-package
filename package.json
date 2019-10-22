@@ -60,7 +60,7 @@
     "@storybook/addon-console": "^1.2.1",
     "@storybook/addon-info": "^5.2.5",
     "@storybook/addon-options": "^5.2.5",
-    "@storybook/channels": "^5.1.9",
+    "@storybook/channels": "^5.2.5",
     "@storybook/react": "^5.1.9",
     "@storybook/storybook-deployer": "^2.8.1",
     "autoprefixer": "^9.6.1",
