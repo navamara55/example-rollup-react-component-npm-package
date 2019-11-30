@@ -63,7 +63,7 @@
     "@storybook/channels": "^5.1.9",
     "@storybook/react": "^5.1.9",
     "@storybook/storybook-deployer": "^2.8.1",
-    "autoprefixer": "^9.6.1",
+    "autoprefixer": "^9.7.3",
     "babel-jest": "^24.8.0",
     "babel-loader": "^8.0.6",
     "babel-preset-minify": "^0.5.0",
