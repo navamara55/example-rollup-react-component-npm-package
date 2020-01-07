@@ -53,7 +53,7 @@
     "@commitlint/cli": "^8.3.4",
     "@commitlint/config-angular": "^8.3.4",
     "@commitlint/prompt": "^8.1.0",
-    "@commitlint/prompt-cli": "^8.1.0",
+    "@commitlint/prompt-cli": "^8.2.0",
     "@storybook/addon-a11y": "^5.1.9",
     "@storybook/addon-actions": "^5.1.9",
     "@storybook/addon-centered": "^5.1.9",
